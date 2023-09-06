@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DeleteApp
+comment1.params=paths
+comment1.target=java.sql.Connection\ connect(java.lang.String)
+comment1.text=\r\n\ Establish\ connection\ with\ my.db\ using\ filepath\ from\ non-volatile.txt\r\n
+comment2.params=paths
+comment2.target=void\ delete(java.lang.String)
+comment2.text=\r\n\ Delete\ all\ records\ from\ my.db\ from\ selected\ domain\r\n
+comment3.params=args\ paths
+comment3.target=void\ main(java.lang.String[],\ java.lang.String)
+numComments=4

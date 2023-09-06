@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Search
+comment1.params=paths
+comment1.target=java.sql.Connection\ connect(java.lang.String)
+comment1.text=\r\n\ Establish\ connection\ with\ my.db\ using\ filepath\ from\ non-volatile.txt\r\n
+comment2.params=word\ paths
+comment2.target=java.lang.String[]\ manage(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Outputs\ list\ of\ files\ with\ specific\ searched\ term\r\n
+comment3.params=A
+comment3.target=void\ main(java.lang.String)
+numComments=4

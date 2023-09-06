@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Context
+comment1.params=input\ file\ paths
+comment1.target=void\ contextsearch(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Outputs\ array\ of\ relevant\ context\ snippets\ given\ file\ name\ and\ search\ term\r\n
+numComments=2

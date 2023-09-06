@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=REM_words
+comment0.text=\r\n\r\n\ @author\ sqlitetutorial.net\r\n
+comment1.params=paths
+comment1.target=java.sql.Connection\ connect(java.lang.String)
+comment1.text=\r\n\ Establish\ connection\ with\ my.db\ using\ filepath\ from\ non-volatile.txt\r\n
+comment2.params=word\ paths
+comment2.target=void\ insert(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Create\ a\ row\ in\ tREM\ with\ user-inputted\ "stop"\ words\ \r\n
+comment3.params=word\ paths
+comment3.target=void\ Delete(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Delete\ a\ row\ in\ tREM\ with\ corresponding\ "stop"\ word\ \r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
