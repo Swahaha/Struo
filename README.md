@@ -8,7 +8,7 @@ It's a full stack app built primarily using Sqlite, Java, and a Swing library ca
 
 ## Video Introduction
 
-[![Struo Introduction](http://img.youtube.com/vi/Rr2Tw9gpRig&ab_channel=Swahaha/0.jpg)](http://www.youtube.com/watch?v=Rr2Tw9gpRig&ab_channel=Swahaha)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rr2Tw9gpRig?si=fyLaMrNclvKEisbx" title="Struo Video Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Inspiration
 
@@ -21,7 +21,7 @@ The idea for Struo came from both my personal and a client's experiences. I am r
 - **Search and Sort**: Struo's search functionality allows users to swiftly sort, filter, and locate their files. 
 
 <p align="center">
-  <img src="Images/Search.png" alt="Searching" width="800"/>
+  <img src="Images/Search.png" alt="Searching" width="500"/>
   <br>
   <em>Searching</em>
 </p>
@@ -29,7 +29,7 @@ The idea for Struo came from both my personal and a client's experiences. I am r
 - **Context**: This feature provides contextual snippets from text files, ensuring users find exactly what they are looking for without needing to actively open and find the relevant information in each search query.
 
 <p align="center">
-  <img src="Images/Context.png" alt="Providing Context for a Search Result" width="800"/>
+  <img src="Images/Context.png" alt="Providing Context for a Search Result" width="500"/>
   <br>
   <em>Providing Context for a Search Result</em>
 </p>
@@ -37,7 +37,7 @@ The idea for Struo came from both my personal and a client's experiences. I am r
 - **Open/Edit Files**: Struo lets you open and edit text files-- ensuring that their data remains up-to-date. Quite importantly, you can edit these files with Struo or directly through a notepad and Struo will adapt to your changes.
 
 <p align="center">
-  <img src="Images/OpenFile.png" alt="UI for Editing a File" width="800"/>
+  <img src="Images/OpenFile.png" alt="UI for Editing a File" width="500"/>
   <br>
   <em>UI for Editing a File</em>
 </p>
@@ -45,7 +45,7 @@ The idea for Struo came from both my personal and a client's experiences. I am r
 - **Split + Merge**: Struo provides some additional functionality such as easy splitting and merging of text files. This facilitates the management and organization of larger data sets within the text files.
 
 <p align="center">
-  <img src="Images/Split.png" alt="Splitting a File" width="800"/>
+  <img src="Images/Split.png" alt="Splitting a File" width="500"/>
   <br>
   <em>Splitting a File</em>
 </p>
