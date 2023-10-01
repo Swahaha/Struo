@@ -8,7 +8,7 @@ It's a full stack app built primarily using Sqlite, Java, and a Swing library ca
 
 ## Video Introduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rr2Tw9gpRig?si=fyLaMrNclvKEisbx" title="Struo Video Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/Rr2Tw9gpRig/masresdefault.jpg)](https://www.youtube.com/watch?v=Rr2Tw9gpRig)
 
 ## Inspiration
 
